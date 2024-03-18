@@ -36,7 +36,7 @@
 *.x86_64
 *.hex
 *.idea
-*xml
+*.xml
 
 # Debug files
 *.dSYM/
